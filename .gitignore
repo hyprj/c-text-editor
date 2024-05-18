@@ -1,0 +1,11 @@
+# Ignore the .vscode/ directory, which is typically used by Visual Studio Code
+.vscode/
+
+# Ignore the compiled executable named 'main'
+main
+
+# Ignore the directory main.dSYM/, which is a directory created by debugging information on macOS
+main.dSYM/
+
+# Ignore the file with special characters in its name
+"\304\205\304\231\304\207\305\272\305\274.txt"
